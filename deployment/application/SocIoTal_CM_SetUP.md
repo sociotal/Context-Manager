@@ -1,4 +1,4 @@
-Installation guide for SocIoTal Context Manager
+#Installation guide for SocIoTal Context Manager
 
 This guide is intended to provide an easy way to have your own working instance of the SocIoTal Context Manager (CM), ready to be linked to other SocIoTal components, such the SocIoTal Communities Manager (ComM) and the SocIoTal Identity Manager (IdM). The master piece of the SocIoTal CM is distributed as a WAR file, ready to be deployed on top of a Web Application Server. Distributes version has been tested on Tomcat (Tomcat7) and JBoss (JBoss AS 7.1) but other Web App servers supporting WAR files could be used. This guide will make use of Tomcat (Tomcat version 7).
 
@@ -13,9 +13,9 @@ This section prepares a basic (and clean) Ubuntu Server 14.04 64 bits existing i
 
 Install JAVA
 ------------
-
+```
 \# sudo apt-get update
-
+```
 In a terminal, use the following command to install OpenJDK Java Development Kit:
 
 \# sudo apt-get install default-jdk
