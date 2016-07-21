@@ -40,9 +40,9 @@ SocIoTal Context Manager Implementation
 
 First implementation of SocIoTal Context Manager has been built over selected FIWARE platform, after an analysis of existing candidate suitable platforms and requirements support.
 
-| <embed src="./media/image2.emf" width="542" height="333" />                                                                                       |
+| <img src="https://github.com/IEMaestro/Context-Manager/blob/master/documentation/CM_Implementation_Diagram.png" width="780" height="500" />                                                                                       |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.  <span id="_Ref420667127" class="anchor"><span id="_Toc421113567" class="anchor"></span></span>Current SocIoTal Context Manager implementation |
+| 2.  <span id="_Ref420667127" class="anchor"><span id="_Toc421113567" class="anchor"></span></span>Current SocIoTal Context Manager implementation |
 
 As shown in Figure 2, FIWARE architecture provides Orion Context Broker enabler, a NGSI9/10 compatible broker that also supports MongoDB storage to implement SocIoTal CM Context Information Storage and Entities’ Directory.
 
