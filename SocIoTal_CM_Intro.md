@@ -5,7 +5,7 @@
 
 SocIoTal (centralized) Context Manager acts as one of the core blocks of integration within SocIoTal Integrated Platform. As shown in Figure 1, it provides the SocIoTal entities directory and storage for its current context information plus a complete NGSI9 and NGSI10 API rest interfaces, detailed (and updated) in [*SocIoTal Wiki*](https://github.com/sociotal/SOCIOTAL/wiki/SocIoTal-Context-Manager) and extended with user functionalities in order to provide access and manage all this set of information.
 
-| <img src="./media/image1.png" width="538" height="367" />                                                                                                      |
+| <img src="https://github.com/IEMaestro/Context-Manager/blob/master/documentation/CM_Arch.png" width="538" height="367" />                                                                                             |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.  <span id="_Ref420597001" class="anchor"><span id="_Toc421113559" class="anchor"></span></span>SocIoTal Framework. Centralized Context Manager architecture |
 
